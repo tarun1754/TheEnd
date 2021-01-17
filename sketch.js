@@ -24,7 +24,7 @@ function setup(){
   compgoal = createSprite(200,360,100,15);
   compgoal.shapeColor="yellow";
   compscore=0;
-  playerscore =5;
+  playerscore =0;
   gameState="serve";
 }
 function draw() {
